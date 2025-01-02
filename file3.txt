@@ -1,0 +1,5 @@
+kishan git branch -d <branchname>
+kishankumar
+123456
+
+
